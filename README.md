@@ -1,4 +1,5 @@
 To compile: </br>
 $ make </br>
 To run: </br>
-$ ./test
+$ ./test </br>
+Please enter C++ code line by line.
